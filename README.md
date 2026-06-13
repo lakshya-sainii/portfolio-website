@@ -9,6 +9,6 @@ Includes dashboard screenshots, projects, certifications, embedded resume, busin
 4. Go to Settings > Pages.
 5. Source: Deploy from branch.
 6. Branch: main, Folder: /root.
-7. Save and wait 1-2 minutes.
+7. Save and wait 1-2 minutes..
 
 Expected URL: https://lakshya-sainii.github.io/portfolio-website/
